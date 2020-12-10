@@ -6,6 +6,9 @@ using XYZInc.Domain.Transaction;
 
 namespace XYZInc.Infra.Security
 {
+    /// <summary>
+    /// Domain services pipeline for dependency injection
+    /// </summary>
     [ExcludeFromCodeCoverage]
     public static class DomainServicesPipeline
     {

@@ -9,6 +9,9 @@ using XYZInc.Domain.Security;
 
 namespace XYZInc.Infra.Security
 {
+    /// <summary>
+    /// Authentication manager
+    /// </summary>
     [ExcludeFromCodeCoverage]
     public class AuthenticationManager : IAuthenticationManager
     {

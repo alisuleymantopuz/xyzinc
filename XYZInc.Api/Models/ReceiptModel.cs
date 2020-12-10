@@ -2,6 +2,9 @@
 
 namespace XYZInc.Api.Models
 {
+    /// <summary>
+    /// Receipt model
+    /// </summary>
     public class ReceiptModel
     {
         public DateTime CreationDate { get; set; }

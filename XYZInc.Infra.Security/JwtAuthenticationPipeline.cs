@@ -8,6 +8,9 @@ using XYZInc.Domain.Security;
 
 namespace XYZInc.Infra.Security
 {
+    /// <summary>
+    /// Jwt authentication pipeline
+    /// </summary>
     [ExcludeFromCodeCoverage]
     public static class JwtAuthenticationPipeline
     {

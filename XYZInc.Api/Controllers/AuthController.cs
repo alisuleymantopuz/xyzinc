@@ -4,6 +4,9 @@ using XYZInc.Domain.Security;
 
 namespace XYZInc.Api.Controllers
 {
+    /// <summary>
+    /// Authentication controller for token generation purposes
+    /// </summary>
     [ApiController]
     [Route("[controller]")]
     public class AuthController : ControllerBase

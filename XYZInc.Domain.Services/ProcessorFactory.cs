@@ -3,6 +3,9 @@ using XYZInc.Domain.Transaction;
 
 namespace XYZInc.Domain.Services
 {
+    /// <summary>
+    /// Processor factory
+    /// </summary>
     public class ProcessorFactory : IProcessorFactory
     {
         public IOrderProcessor CreateProcessor(PaymentGateway gateway)

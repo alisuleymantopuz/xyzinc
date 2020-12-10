@@ -2,6 +2,9 @@
 
 namespace XYZInc.Domain.Transaction
 {
+    /// <summary>
+    /// Order domain
+    /// </summary>
     [ExcludeFromCodeCoverage]
 
     public class Order

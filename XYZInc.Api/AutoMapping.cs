@@ -4,6 +4,9 @@ using XYZInc.Domain.Transaction;
 
 namespace XYZInc.Api
 {
+    /// <summary>
+    /// Auto mapper for domain and api models
+    /// </summary>
     public class AutoMapping : Profile
     {
         public AutoMapping()

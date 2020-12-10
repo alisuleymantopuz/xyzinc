@@ -3,6 +3,9 @@ using XYZInc.Domain.Transaction;
 
 namespace XYZInc.Domain.Services.Processors
 {
+    /// <summary>
+    /// Mastercard processor
+    /// </summary>
     public class MastercardProcessor : IOrderProcessor
     {
         public Receipt Process(Order order)

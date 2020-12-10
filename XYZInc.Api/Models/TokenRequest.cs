@@ -2,6 +2,9 @@
 
 namespace XYZInc.Api.Models
 {
+    /// <summary>
+    /// Token request model
+    /// </summary>
     public class TokenRequest
     {
         [Required]

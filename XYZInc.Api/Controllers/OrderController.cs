@@ -8,6 +8,9 @@ using XYZInc.Domain.Transaction;
 
 namespace XYZInc.Api.Controllers
 {
+    /// <summary>
+    /// Order controller 
+    /// </summary>
     [ApiController]
     [Route("[controller]")]
     [Authorize]

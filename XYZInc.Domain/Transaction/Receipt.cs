@@ -3,6 +3,9 @@ using System.Diagnostics.CodeAnalysis;
 
 namespace XYZInc.Domain.Transaction
 {
+    /// <summary>
+    /// Receipt domain
+    /// </summary>
     [ExcludeFromCodeCoverage]
 
     public class Receipt

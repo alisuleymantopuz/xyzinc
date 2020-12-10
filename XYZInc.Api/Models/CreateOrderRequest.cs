@@ -2,6 +2,9 @@
 
 namespace XYZInc.Api.Models
 {
+    /// <summary>
+    /// Create order request api model
+    /// </summary>
     public class CreateOrderRequest
     {
         [Required]

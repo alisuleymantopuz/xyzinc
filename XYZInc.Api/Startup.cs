@@ -10,6 +10,9 @@ using XYZInc.Infra.Security;
 
 namespace XYZInc.Api
 {
+    /// <summary>
+    /// Application startup
+    /// </summary>
     public class Startup
     {
         public Startup(IConfiguration configuration)
