@@ -1,0 +1,11 @@
+C:\Projects\XYZInc\XYZInc.Domain.Services\bin\Release\netcoreapp3.0\XYZInc.Domain.Services.deps.json
+C:\Projects\XYZInc\XYZInc.Domain.Services\bin\Release\netcoreapp3.0\XYZInc.Domain.Services.dll
+C:\Projects\XYZInc\XYZInc.Domain.Services\bin\Release\netcoreapp3.0\XYZInc.Domain.Services.pdb
+C:\Projects\XYZInc\XYZInc.Domain.Services\bin\Release\netcoreapp3.0\XYZInc.Domain.dll
+C:\Projects\XYZInc\XYZInc.Domain.Services\bin\Release\netcoreapp3.0\XYZInc.Domain.pdb
+C:\Projects\XYZInc\XYZInc.Domain.Services\obj\Release\netcoreapp3.0\XYZInc.Domain.Services.csprojAssemblyReference.cache
+C:\Projects\XYZInc\XYZInc.Domain.Services\obj\Release\netcoreapp3.0\XYZInc.Domain.Services.AssemblyInfoInputs.cache
+C:\Projects\XYZInc\XYZInc.Domain.Services\obj\Release\netcoreapp3.0\XYZInc.Domain.Services.AssemblyInfo.cs
+C:\Projects\XYZInc\XYZInc.Domain.Services\obj\Release\netcoreapp3.0\XYZInc.Domain.Services.csproj.CopyComplete
+C:\Projects\XYZInc\XYZInc.Domain.Services\obj\Release\netcoreapp3.0\XYZInc.Domain.Services.dll
+C:\Projects\XYZInc\XYZInc.Domain.Services\obj\Release\netcoreapp3.0\XYZInc.Domain.Services.pdb

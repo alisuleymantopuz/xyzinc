@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XYZInc.Domain.Services\XYZInc.Domain.Services.csproj" />
+    <ProjectReference Include="..\XYZInc.Domain\XYZInc.Domain.csproj" />
+    <ProjectReference Include="..\XYZInc.Infra.Security\XYZInc.Infra.Security.csproj" />
+  </ItemGroup>
+
+</Project>

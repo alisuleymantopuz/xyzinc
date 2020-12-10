@@ -1,0 +1,104 @@
+{
+  "XYZInc.Domain.dll": {},
+  "XYZInc.Domain.Services.dll": {
+    "C:\\Projects\\XYZInc\\XYZInc.Domain.Services\\ProcessorFactory.cs": {
+      "XYZInc.Domain.Services.ProcessorFactory": {
+        "XYZInc.Domain.Transaction.IOrderProcessor XYZInc.Domain.Services.ProcessorFactory::CreateProcessor(XYZInc.Domain.Transaction.PaymentGateway)": {
+          "Lines": {
+            "9": 4,
+            "10": 4,
+            "13": 2,
+            "15": 1,
+            "17": 1,
+            "19": 4
+          },
+          "Branches": [
+            {
+              "Line": 10,
+              "Offset": 6,
+              "EndOffset": 10,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 10,
+              "Offset": 6,
+              "EndOffset": 16,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 10,
+              "Offset": 12,
+              "EndOffset": 24,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 10,
+              "Offset": 12,
+              "EndOffset": 32,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Projects\\XYZInc\\XYZInc.Domain.Services\\Processors\\MastercardProcessor.cs": {
+      "XYZInc.Domain.Services.Processors.MastercardProcessor": {
+        "XYZInc.Domain.Transaction.Receipt XYZInc.Domain.Services.Processors.MastercardProcessor::Process(XYZInc.Domain.Transaction.Order)": {
+          "Lines": {
+            "9": 1,
+            "10": 1,
+            "11": 1,
+            "12": 1,
+            "13": 1,
+            "14": 1,
+            "15": 1,
+            "16": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Projects\\XYZInc\\XYZInc.Domain.Services\\Processors\\UndefinedProcessor.cs": {
+      "XYZInc.Domain.Services.Processors.UndefinedProcessor": {
+        "XYZInc.Domain.Transaction.Receipt XYZInc.Domain.Services.Processors.UndefinedProcessor::Process(XYZInc.Domain.Transaction.Order)": {
+          "Lines": {
+            "9": 1,
+            "10": 1,
+            "11": 1,
+            "12": 1,
+            "13": 1,
+            "14": 1,
+            "15": 1,
+            "16": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Projects\\XYZInc\\XYZInc.Domain.Services\\Processors\\VisaProcessor.cs": {
+      "XYZInc.Domain.Services.Processors.VisaProcessor": {
+        "XYZInc.Domain.Transaction.Receipt XYZInc.Domain.Services.Processors.VisaProcessor::Process(XYZInc.Domain.Transaction.Order)": {
+          "Lines": {
+            "9": 1,
+            "10": 1,
+            "11": 1,
+            "12": 1,
+            "13": 1,
+            "14": 1,
+            "15": 1,
+            "16": 1
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

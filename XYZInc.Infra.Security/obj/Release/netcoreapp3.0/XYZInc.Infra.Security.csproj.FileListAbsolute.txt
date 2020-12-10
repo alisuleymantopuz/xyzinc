@@ -1,0 +1,11 @@
+C:\Projects\XYZInc\XYZInc.Infra.Security\bin\Release\netcoreapp3.0\XYZInc.Infra.Security.deps.json
+C:\Projects\XYZInc\XYZInc.Infra.Security\bin\Release\netcoreapp3.0\XYZInc.Infra.Security.dll
+C:\Projects\XYZInc\XYZInc.Infra.Security\bin\Release\netcoreapp3.0\XYZInc.Infra.Security.pdb
+C:\Projects\XYZInc\XYZInc.Infra.Security\bin\Release\netcoreapp3.0\XYZInc.Domain.dll
+C:\Projects\XYZInc\XYZInc.Infra.Security\bin\Release\netcoreapp3.0\XYZInc.Domain.pdb
+C:\Projects\XYZInc\XYZInc.Infra.Security\obj\Release\netcoreapp3.0\XYZInc.Infra.Security.csprojAssemblyReference.cache
+C:\Projects\XYZInc\XYZInc.Infra.Security\obj\Release\netcoreapp3.0\XYZInc.Infra.Security.AssemblyInfoInputs.cache
+C:\Projects\XYZInc\XYZInc.Infra.Security\obj\Release\netcoreapp3.0\XYZInc.Infra.Security.AssemblyInfo.cs
+C:\Projects\XYZInc\XYZInc.Infra.Security\obj\Release\netcoreapp3.0\XYZInc.Infra.Security.csproj.CopyComplete
+C:\Projects\XYZInc\XYZInc.Infra.Security\obj\Release\netcoreapp3.0\XYZInc.Infra.Security.dll
+C:\Projects\XYZInc\XYZInc.Infra.Security\obj\Release\netcoreapp3.0\XYZInc.Infra.Security.pdb

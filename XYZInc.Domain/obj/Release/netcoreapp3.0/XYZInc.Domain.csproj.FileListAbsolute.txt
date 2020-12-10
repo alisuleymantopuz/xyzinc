@@ -1,0 +1,8 @@
+C:\Projects\XYZInc\XYZInc.Domain\bin\Release\netcoreapp3.0\XYZInc.Domain.deps.json
+C:\Projects\XYZInc\XYZInc.Domain\bin\Release\netcoreapp3.0\XYZInc.Domain.dll
+C:\Projects\XYZInc\XYZInc.Domain\bin\Release\netcoreapp3.0\XYZInc.Domain.pdb
+C:\Projects\XYZInc\XYZInc.Domain\obj\Release\netcoreapp3.0\XYZInc.Domain.csprojAssemblyReference.cache
+C:\Projects\XYZInc\XYZInc.Domain\obj\Release\netcoreapp3.0\XYZInc.Domain.AssemblyInfoInputs.cache
+C:\Projects\XYZInc\XYZInc.Domain\obj\Release\netcoreapp3.0\XYZInc.Domain.AssemblyInfo.cs
+C:\Projects\XYZInc\XYZInc.Domain\obj\Release\netcoreapp3.0\XYZInc.Domain.dll
+C:\Projects\XYZInc\XYZInc.Domain\obj\Release\netcoreapp3.0\XYZInc.Domain.pdb
